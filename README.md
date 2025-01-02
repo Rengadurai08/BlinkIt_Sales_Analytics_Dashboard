@@ -1,6 +1,7 @@
 🚀 BlinkIt Sales Analytics Dashboard
 
 📊 Overview
+
 A Power BI dashboard providing insights into sales performance, customer behavior, and profit trends to support data-driven decisions.
 
 📂 Key Insights
