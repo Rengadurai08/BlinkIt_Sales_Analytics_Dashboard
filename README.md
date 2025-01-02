@@ -16,6 +16,7 @@ A Power BI dashboard providing insights into sales performance, customer behavio
 🔮 Predictive Trends: Forecast future sales and optimize strategies.
 
 🛠 Features
+
 📊 Interactive Visuals – Drilldowns by region, product, and time.
 
 📈 Trend Analysis – Predictive analytics for forecasting.
