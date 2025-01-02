@@ -1,4 +1,4 @@
-📈 Blinkit Sales Performance Dashboard
+🚀 BlinkIt Sales Performance Dashboard
 
 📝 Project Overview
 
